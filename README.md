@@ -20,6 +20,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git — As explained to a 10 year old](https://ysandansing.medium.com/git-as-explained-to-a-10-year-old-969386071022?source=rss-9944010f4a02------2)
+- [Evaluation metrics for Regression problems](https://ysandansing.medium.com/evaluation-metrics-for-regression-problems-8cc26537687d?source=rss-9944010f4a02------2)
+- [Under/over fitting — The bias/variance dilemma](https://ysandansing.medium.com/under-over-fitting-the-bias-variance-dilemma-f38358b5665c?source=rss-9944010f4a02------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
