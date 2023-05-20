@@ -1,3 +1,6 @@
+[![MasterHead](https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1000&name=AI%20and%20Deep%20Learning.gif)]
+
+
 <h1 align="center">Hi 👋, I'm Yash Sandansing</h1>
 <h3 align="center">A passionate Machine Learning Engineer proficient in Python, PyTorch and Tensorflow</h3>
 
