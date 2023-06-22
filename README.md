@@ -4,15 +4,15 @@
 <h1 align="center">Hi 👋, I'm Yash Sandansing</h1>
 <h3 align="center">A passionate Machine Learning Engineer proficient in Python, PyTorch and Tensorflow</h3>
 
-- 🔭 I’m currently working on **PhotoFrame, Ivy**
+- 🔭 I’m currently working on **PhotoFrame - A photo editing app using AI filters**
 
-- 🌱 I’m currently learning **Kotlin, Java, Android**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
 - 📝 I regularly write articles on [https://ysandansing.medium.com/](https://ysandansing.medium.com/)
 
-- 💬 Ask me about **Machine Learning, Computer Vision and NLP**
+- 💬 Ask me about **Machine Learning, Computer Vision, and NLP**
 
 - 📫 How to reach me **ysandansing@gmail.com**
 
