@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Sandansing</h1>
-<h3 align="center">A passionate Machine Learning Engineer proficient in Python, PyTorch and Tensorflow</h3>
+<h3 align="center">A professional Machine Learning Engineer, with 2 years of experience, proficient in Python, PyTorch, and Tensorflow</h3>
 
 - 🔭 I’m currently working on **PhotoFrame - A photo editing app using AI filters**
 
