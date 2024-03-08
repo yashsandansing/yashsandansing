@@ -2,11 +2,17 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Sandansing</h1>
-<h3 align="center">A professional Machine Learning Engineer, with 2 years of experience, proficient in Python, PyTorch, and Tensorflow</h3>
+<h3 align="center">ML engineer with 3 years of experience, eager to contribute to business success by leveraging AI to solve key challenges and drive value</h3>
 
 - 🔭 I’m currently working on **PhotoFrame - A photo editing app using AI filters**
 
 - 🌱 I’m currently learning **Llama-index** and **FastAPI**
+
+- 🌟 I regularly contribute to open-source libraries like:
+
+  - 🔥[**ivy**](https://github.com/unifyai/ivy/pull/15987)
+  
+  - 🔮[**VGT**](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/pull/113)
 
 - 👯 I’m looking to collaborate on **Machine learning projects involving Generative AI**
 
