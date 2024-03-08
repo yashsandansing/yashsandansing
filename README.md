@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **PhotoFrame - A photo editing app using AI filters**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Llama-index** and **FastAPI**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Machine learning projects involving Generative AI**
 
 - 📝 I regularly write articles on [https://ysandansing.medium.com/](https://ysandansing.medium.com/)
 
-- 💬 Ask me about **Machine Learning, Computer Vision, and NLP**
+- 💬 Ask me about **Machine Learning, LLMs, and Generative AI**
 
 - 📫 How to reach me **ysandansing@gmail.com**
 
