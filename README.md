@@ -22,7 +22,7 @@
 
 - 📫 How to reach me - **ysandansing@gmail.com**
 
-- ⚡ Fun fact **I am an expert at playing the guitar**
+- ⚡ Fun fact **I am ~an expert~ pretty good at playing the guitar**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
