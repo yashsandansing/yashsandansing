@@ -26,6 +26,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Type Checking in Python](https://ysandansing.medium.com/type-checking-in-python-54d5f634fca1?source=rss-9944010f4a02------2)
 - [Git — As explained to a 10 year old](https://ysandansing.medium.com/git-as-explained-to-a-10-year-old-969386071022?source=rss-9944010f4a02------2)
 - [Evaluation metrics for Regression problems](https://ysandansing.medium.com/evaluation-metrics-for-regression-problems-8cc26537687d?source=rss-9944010f4a02------2)
 - [Under/over fitting — The bias/variance dilemma](https://ysandansing.medium.com/under-over-fitting-the-bias-variance-dilemma-f38358b5665c?source=rss-9944010f4a02------2)
