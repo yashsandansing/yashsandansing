@@ -40,7 +40,7 @@
 
 ### Experience
 
-| **Company** | **Role** | **One line** |
+| **Company** | **Role** | **Quick Summary** |
 | :---------- | :------- | :----------- |
 | **Filmic Technologies** | Founding Software Engineer (Intern) | Full-stack MVP connecting philanthropists to film preservation (React, Next.js, Nest.js, AWS, Stripe). |
 | **Learno.AI** | Founding Software Engineer | RAG-based chatbot with 99.9% uptime and streaming responses (Streamlit, FAISS, llama-index). |
