@@ -45,7 +45,7 @@
 | **Filmic Technologies** | Founding Software Engineer (Intern) | Full-stack MVP connecting philanthropists to film preservation (React, Next.js, Nest.js, AWS, Stripe). |
 | **Learno.AI** | Founding Software Engineer | RAG-based chatbot with 99.9% uptime and streaming responses (Streamlit, FAISS, llama-index). |
 | **Signimus** | Software Engineer | Async image-processing microservices and AWS compute pipeline (Celery, EC2, S3, CUDA). |
-| **Expertrons** | Junior Python Developer | MongoDB indexing and multiprocessing pipelines for media APIs. |
+| **Expertrons** | Junior Python Developer | Recommendation System, MongoDB indexing, multiprocessing pipelines for media APIs. |
 
 <sub>*Most recent first.*</sub>
 
