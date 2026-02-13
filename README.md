@@ -1,6 +1,6 @@
-<div align="center">
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
-<img src="https://i.pinimg.com/736x/d0/24/c4/d024c4f16e5954aecf7adb707c6ca2f2.jpg" alt="Header" width="900" height="280"/>
+<div align="center">
 
 # Hi, I'm Yash Sandansing
 
