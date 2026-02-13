@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/d0/24/c4/d024c4f16e5954aecf7adb707c6ca2f2.jpg" alt="Header" width="900" height="280" style="width: 100%; max-width: 900px; height: 230px; object-fit: cover; object-position: center;" />
+<img src="https://i.pinimg.com/736x/d0/24/c4/d024c4f16e5954aecf7adb707c6ca2f2.jpg" alt="Header" width="900" height="280"/>
 
 # Hi, I'm Yash Sandansing
 
