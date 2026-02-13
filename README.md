@@ -120,15 +120,3 @@
   <img alt="Vector DBs" src="https://img.shields.io/badge/-Vector%20DBs-0EA5E9?style=flat-square" />
   <img alt="Embeddings" src="https://img.shields.io/badge/-Embeddings-059669?style=flat-square" />
 </p>
-
----
-
-### GitHub stats
-
-<a href="https://github.com/yashsandansing">
-  <img height="180em" align="center" src="./profile/stats.svg" alt="GitHub stats" />
-</a>
-<a href="https://github.com/yashsandansing">
-  <img height="180em" align="center" src="./profile/top-langs.svg" alt="Top languages" />
-</a>
-
