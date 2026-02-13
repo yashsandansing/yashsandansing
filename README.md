@@ -4,7 +4,7 @@
 
 # Hi, I'm Yash Sandansing
 
-**Software Engineer** building production backends, APIs & ML systems · **Buffalo, NY**
+**Software Engineer** building production backends, APIs & ML systems · **SF, CA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--san-0a66c2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-san/)
 [![Email](https://img.shields.io/badge/Email-ysandansing%40gmail.com-ea4335?style=flat&logo=gmail)](mailto:ysandansing@gmail.com)
